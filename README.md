@@ -40,10 +40,3 @@ The app will run on `http://localhost:3000/`
 [Backend API](https://github.com/SruthiGayathri-S/bug-tracker-backend)
 
 
-
----
-
-👉 This README makes it clear what the project is, how to set it up, and links the backend too.  
-
-Do you want me to also draft a **matching README for your backend** repo so both look professional and consistent?
-```
